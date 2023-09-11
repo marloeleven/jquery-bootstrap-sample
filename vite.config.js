@@ -8,7 +8,7 @@ export default {
     }
   },
   build: {
-    outDir: '../dist'
+    outDir: '../docs'
   },
   server: {
     port: 8080,
