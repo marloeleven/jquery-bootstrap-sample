@@ -1,0 +1,17 @@
+{
+  "name": "jquery-bootstrap-site",
+  "displayName": "jQuery with Bootstrap",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.1",
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "sass": "~1.64.2",
+    "vite": "^4.4.9"
+  }
+}
